@@ -6,4 +6,4 @@ def check_even_odd(number):
 
 # Test the function
 num = int(input("Enter a number: "))
-check_even_odd(num)
+check_even_odd(number)
